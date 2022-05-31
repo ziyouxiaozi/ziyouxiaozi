@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我是一位热爱Android开发的程序员，平时比较喜欢看开源项目； 👋
 
 <!--
 **ziyouxiaozi/ziyouxiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
